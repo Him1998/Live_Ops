@@ -1,0 +1,31 @@
+#login {
+    margin-left: 2cm;
+    margin-top: 2cm;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+#create {
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+h2 {
+    margin-top: 3cm;
+    margin-left: 3cm;
+}
+
+input {
+    margin: 0.5cm;
+    height: 0.7cm;
+}
+
+span {
+    margin:1cm;
+}
+
+p {
+    margin-left :2cm;
+    background-color: blue;
+    width: fit-content;
+}
